@@ -1,6 +1,6 @@
 <h2 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/willian-prado-dev/">Willian Prado</a>!</h2>
 
-- Recentemente, concluí a formação em Desenvolvimento Web Full Stack da Trybe.
+- Recentemente, concluí a formação em [Desenvolvimento Web Full Stack da Trybe](https://github.com/willian-prado/trybe-records).
 - Estou em transição de carreira. Tenho formação em Ciências Biológicas e mestrado em Bioinformática pela UFMG.
 - Atualmente, estou estudando **Docker** e **TypeScript**.
 
