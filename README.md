@@ -1,7 +1,7 @@
 <h2 align="center">Olá, eu sou o <a href="https://www.linkedin.com/in/willian-prado-dev/">Willian Prado</a>!</h2>
 
 - Recentemente, concluí a formação em [Desenvolvimento Web Full Stack da Trybe](https://github.com/willian-prado/trybe-records).
-- Estou em transição de carreira. Tenho formação em Ciências Biológicas e mestrado em Bioinformática pela UFMG.
+- Estou em transição de carreira. Tenho graduação em Ciências Biológicas e mestrado em Bioinformática pela UFMG.
 - Atualmente, estou estudando **Docker** e **TypeScript**.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
@@ -50,10 +50,7 @@
 <a href="https://www.linkedin.com/in/willian-prado-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ##
-
-<div align="center">
-<p><img align="center" height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=willian-prado&show_icons=true&locale=en&layout=compact&theme=dark" alt="willian-prado" /></p>
-</div>
-<div align="center">
-<p>&nbsp;<img align="center" height= "180em" src="https://github-readme-stats.vercel.app/api?username=willian-prado&show_icons=true&locale=en&theme=dark&count_private=true" alt="willian-prado" /></p>
+<div>
+  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=willian-prado&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api?username=willian-prado&show_icons=true&locale=en&theme=dark&count_private=true"/>
 </div>
