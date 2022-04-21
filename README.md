@@ -51,6 +51,6 @@
 
 ##
 <div>
-  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=willian-prado&show_icons=true&locale=en&layout=compact&theme=dark"/>
-  <img width="45%" height="180" src="https://github-readme-stats.vercel.app/api?username=willian-prado&show_icons=true&locale=en&theme=dark&count_private=true"/>
+  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=willian-prado&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api?username=willian-prado&show_icons=true&locale=en&theme=dark&count_private=true"/>
 </div>
