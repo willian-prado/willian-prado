@@ -50,8 +50,8 @@
 <a href="https://www.linkedin.com/in/willian-prado-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
-  
+
 <div>
-  <img width="45%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=willian-prado&show_icons=true&locale=en&layout=compact&theme=dark"/>
-  <img width="45%" height="220px"src="https://github-readme-stats.vercel.app/api?username=willian-prado&show_icons=true&locale=en&theme=dark&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=willian-prado&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=willian-prado&show_icons=true&locale=en&theme=dark&count_private=true"/>
 </div>
