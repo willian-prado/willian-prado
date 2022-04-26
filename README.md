@@ -2,7 +2,7 @@
 
 - Recentemente, concluí a formação em [Desenvolvimento Web Full Stack da Trybe](https://github.com/willian-prado/trybe-records).
 - Estou em transição de carreira. Tenho graduação em Ciências Biológicas e mestrado em Bioinformática pela UFMG.
-- Atualmente, estou estudando **Docker** e **TypeScript**.
+- Atualmente, estou estudando **TypeScript**.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
@@ -14,6 +14,7 @@
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" title="Git" height="27"/></a>
 <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" title="Bash" height="27"/></a>
 <a href="https://jestjs.io"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" title="Jest" height="28"/></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" title="Docker" height="28"/>
 <a href="https://www.heroku.com/"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku"/></a>
 <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" height="30"</a>
 <a href="https://eslint.org/"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" height="28"></a>  
