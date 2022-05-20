@@ -2,12 +2,13 @@
 
 - Recentemente, concluí a formação em [Desenvolvimento Web Full Stack da Trybe](https://github.com/willian-prado/trybe-records).
 - Estou em transição de carreira. Tenho graduação em Ciências Biológicas e mestrado em Bioinformática pela UFMG.
-- Atualmente, estou estudando **TypeScript**.
+- Atualmente, estou estudando **C#**.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" height="29"/></a>
+<a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" height="28"/></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" title="Python" height="27"></a>
 <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" title="R"></a>
 <a href="https://www.perl.org/"><img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white" title="Perl"></a>
@@ -52,6 +53,6 @@
 ---
 
 <div>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=willian-prado&show_icons=true&locale=en&layout=compact&theme=dark"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=willian-prado&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&include_all_commits&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=willian-prado&show_icons=true&locale=en&theme=dark&count_private=true"/>
 </div>
