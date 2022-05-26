@@ -20,7 +20,6 @@
 <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" title="Vercel" height="30"</a>
 <a href="https://eslint.org/"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" title="ESLint" height="28"></a>  
 <a href="https://stylelint.io/"><img src="https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white" title="Stylelint" height="30"></a>
-<a href="https://trello.com/"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" title="Trello" height="28"></a>
 </p>
 
 <h3 align="left">Front-end:</h3>
